@@ -4,7 +4,7 @@
     "url": "https://remix.fairuse.org",
     "icon": "https://icons.duckduckgo.com/ip3/remix.fairuse.org.ico",
     "slug": "remix-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "75.68%",
     "uptimeDay": "91.69%",
     "uptimeWeek": "59.98%",
@@ -12,7 +12,7 @@
     "uptimeYear": "75.68%",
     "time": 1216,
     "timeDay": 1227,
-    "timeWeek": 1436,
+    "timeWeek": 1446,
     "timeMonth": 1274,
     "timeYear": 1216,
     "dailyMinutesDown": {
