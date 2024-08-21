@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/remix.fairuse.org.ico",
     "slug": "remix-dashboard",
     "status": "up",
-    "uptime": "72.73%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
+    "uptime": "72.75%",
+    "uptimeDay": "23.16%",
+    "uptimeWeek": "3.31%",
     "uptimeMonth": "12.71%",
-    "uptimeYear": "75.86%",
-    "time": 1261,
-    "timeDay": 959,
-    "timeWeek": 959,
-    "timeMonth": 855,
+    "uptimeYear": "75.93%",
+    "time": 1260,
+    "timeDay": 838,
+    "timeWeek": 838,
+    "timeMonth": 840,
     "timeYear": 1261,
     "dailyMinutesDown": {
       "2024-08-20": 1143,
@@ -154,8 +154,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1440,
-      "2023-08-22": 1440
+      "2023-08-23": 1440
     }
   }
 ]
