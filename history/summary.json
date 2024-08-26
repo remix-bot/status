@@ -4,14 +4,14 @@
     "url": "https://remix.fairuse.org",
     "icon": "https://icons.duckduckgo.com/ip3/remix.fairuse.org.ico",
     "slug": "remix-dashboard",
-    "status": "up",
-    "uptime": "84.52%",
+    "status": "down",
+    "uptime": "84.53%",
     "uptimeDay": "61.94%",
-    "uptimeWeek": "72.76%",
-    "uptimeMonth": "14.84%",
-    "uptimeYear": "83.54%",
+    "uptimeWeek": "73.06%",
+    "uptimeMonth": "14.91%",
+    "uptimeYear": "83.55%",
     "time": 1243,
-    "timeDay": 789,
+    "timeDay": 806,
     "timeWeek": 907,
     "timeMonth": 907,
     "timeYear": 1238,
@@ -121,8 +121,7 @@
       "2023-12-27": 1136,
       "2023-12-26": 8,
       "2023-12-24": 38,
-      "2023-12-23": 21,
-      "2023-12-22": 25
+      "2023-12-23": 21
     }
   }
 ]
