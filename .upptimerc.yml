@@ -3,11 +3,11 @@ repo: status
 
 sites:
   - name: Remix Dashboard
-    url: https://remix.fairuse.org
+    url: https://remix.fairway.cl
 
 status-website:
   baseUrl: /status
-  logoUrl: https://remix.fairuse.org/assets/icon.png
+  logoUrl: https://remix.fairway.cl/assets/icon.png
   name: Remix Status
   navbar:
     - title: Status
@@ -15,4 +15,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Website
-      href: https://remix.fairuse.org
+      href: https://remix.fairway.cl
