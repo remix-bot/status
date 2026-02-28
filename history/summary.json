@@ -6,12 +6,12 @@
     "slug": "remix-dashboard",
     "status": "up",
     "uptime": "87.69%",
-    "uptimeDay": "93.45%",
-    "uptimeWeek": "64.75%",
-    "uptimeMonth": "30.42%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "65.57%",
+    "uptimeMonth": "30.60%",
     "uptimeYear": "68.39%",
     "time": 1117,
-    "timeDay": 2542,
+    "timeDay": 3385,
     "timeWeek": 1124,
     "timeMonth": 1144,
     "timeYear": 1058,
@@ -170,8 +170,7 @@
       "2025-03-25": 193,
       "2025-03-05": 311,
       "2025-03-04": 206,
-      "2025-03-03": 18,
-      "2025-02-28": 73
+      "2025-03-03": 18
     }
   }
 ]
