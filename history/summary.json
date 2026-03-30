@@ -6,16 +6,18 @@
     "slug": "remix-dashboard",
     "status": "down",
     "uptime": "87.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "81.32%",
-    "uptimeYear": "67.73%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "79.53%",
+    "uptimeYear": "67.71%",
     "time": 1062,
     "timeDay": 0,
     "timeWeek": 1079,
-    "timeMonth": 843,
+    "timeMonth": 828,
     "timeYear": 1021,
     "dailyMinutesDown": {
+      "2026-03-30": 80,
+      "2026-03-29": 24,
       "2026-03-26": 105,
       "2026-03-23": 52,
       "2026-03-20": 1225,
@@ -174,7 +176,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 188,
       "2025-06-09": 150,
-      "2025-06-08": 144
+      "2025-06-08": 114
     }
   }
 ]
