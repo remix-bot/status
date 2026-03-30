@@ -4,19 +4,19 @@
     "url": "https://remix.fairway.cl",
     "icon": "https://icons.duckduckgo.com/ip3/remix.fairway.cl.ico",
     "slug": "remix-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "87.78%",
-    "uptimeDay": "34.45%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "79.05%",
+    "uptimeDay": "30.56%",
+    "uptimeWeek": "89.04%",
+    "uptimeMonth": "78.93%",
     "uptimeYear": "67.55%",
-    "time": 1062,
-    "timeDay": 890,
-    "timeWeek": 1072,
-    "timeMonth": 834,
-    "timeYear": 1021,
+    "time": 1064,
+    "timeDay": 1249,
+    "timeWeek": 1132,
+    "timeMonth": 847,
+    "timeYear": 1022,
     "dailyMinutesDown": {
-      "2026-03-30": 920,
+      "2026-03-30": 976,
       "2026-03-29": 24,
       "2026-03-26": 105,
       "2026-03-23": 52,
@@ -176,7 +176,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 188,
       "2025-06-09": 150,
-      "2025-06-08": 114
+      "2025-06-08": 78
     }
   }
 ]
